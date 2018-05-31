@@ -1,2 +1,3 @@
 # Soil_Mapping
-Test Soil Mapping
+This repository houses ongoing scripts for predictive soil mapping 
+
